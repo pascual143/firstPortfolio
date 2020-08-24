@@ -58,7 +58,7 @@ class Landing extends Component {
           </div>
           <hr/>
 
-          <p class="ts-line">HTML/CSS | JavaScript | React | NodeJS | Express | GraphQL | MongoDB | Python | PHP | Magento </p>
+          <p class="ts-line">HTML/CSS | JavaScript | React | NodeJS | Express | GraphQL | MongoDB | Python | PHP | SaSS </p>
 
           </div>
           </Cell>
