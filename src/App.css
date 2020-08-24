@@ -22,17 +22,17 @@
 }
 
 @keyframes bgchange {
-	0% { background-color: powderBlue }
+	0% { background-color: powderBlue}
 
-	15% { background-color: #dfcdc3 }
+	15% { background-color: #dfcdc3}
 
-	35% { background-color: tomato }
+	35% { background-color: tomato}
 
-	55% { background-color: lightblue }
+	55% { background-color: lightblue}
 
-	75% { background-color: #1089ff }
+	75% { background-color: #1089ff}
 
-	95% { background-color: #c93838 }
+	95% { background-color: #c93838}
 
   100% { background-color: powderBlue }
 
@@ -46,8 +46,8 @@
 
 .projects-grid {
   background:   #f9f9f9;  /* fallback for old browsers */
-  background: -webkit-linear-gradient(to bottom,  #074a6a		, #fdfff2, #074a6a		));  /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to bottom,  #074a6a		, #fdfff2, #074a6a		)); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: -webkit-linear-gradient(to bottom,  #074a6a		, #fdfff2, #074a6a		);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to bottom,  #074a6a		, #fdfff2, #074a6a		); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
   display: flex;
   flex-wrap: wrap;
   margin: auto;
@@ -580,3 +580,4 @@ a.motion2:hover:before {
   font-weight: bold;
 	background-color: #273c75;
 }
+
